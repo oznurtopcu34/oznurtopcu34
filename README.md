@@ -5,7 +5,7 @@
 
 ### 📫 Bana Ulaşabilirsiniz
 - **Email:** oznurtopcu21@gmail.com  
-- **LinkedIn:** [linkedin.com/in/oznurtopcu](https://linkedin.com/in/oznurtopcu)
+- **LinkedIn:** [linkedin.com/in/oznurtopcu](https://linkedin.com/in/oznur-topcu)
 
 ---
 
