@@ -1,7 +1,5 @@
 <h1 align="center">Merhaba 👋, ben Öznur</h1>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=oznurtopcu34&label=Profil%20Görüntüleme&color=0e75b6&style=flat" alt="oznurtopcu34" />
-</p>
+
 
 ---
 
