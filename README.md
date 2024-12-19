@@ -38,9 +38,3 @@
 
 ---
 
-### 📊 GitHub İstatistikleri
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oznurtopcu34&show_icons=true&locale=tr" alt="GitHub İstatistiklerim" />
-</p>
-
