@@ -39,12 +39,8 @@
 ---
 
 ### 📊 GitHub İstatistikleri
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oznurtopcu34&show_icons=true&locale=tr&layout=compact" alt="En Çok Kullandığım Diller" />
-</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=oznurtopcu34&show_icons=true&locale=tr" alt="GitHub İstatistiklerim" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oznurtopcu34&locale=tr" alt="GitHub İstatistik Serim" />
-</p>
+
